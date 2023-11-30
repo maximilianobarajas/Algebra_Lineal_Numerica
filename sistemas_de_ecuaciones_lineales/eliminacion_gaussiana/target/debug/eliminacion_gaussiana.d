@@ -1,0 +1,1 @@
+/home/max/Desktop/sistemas_de_ecuaciones_lineales/eliminacion_gaussiana/target/debug/eliminacion_gaussiana: /home/max/Desktop/sistemas_de_ecuaciones_lineales/eliminacion_gaussiana/src/main.rs
